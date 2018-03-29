@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(darkcyan, darkgray);
+    background-size: cover;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    background-image: url(https://i.pinimg.com/736x/cb/0e/a3/cb0ea39f35b5ff948aebb5dca111ec04--los-angeles-kings-ottawa.jpg);
+    background-position-y: -525px;
+    background-size: cover;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+}
+
+#answerArray {
+    font-size: 40px;
+}
+
+.btn {
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
